@@ -3,7 +3,7 @@
 [![LinkedIn account](https://img.shields.io/badge/-aitorct-2867B2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/aitorct/)
 [![Twitter account](https://img.shields.io/badge/-aitor__ct-00acee?logo=twitter&logoColor=white&style=flat)](https://twitter.com/aitor_ct)
 [![Instagram account](https://img.shields.io/badge/-aitor__ct-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/aitor_ct/)
-[![Email address](https://img.shields.io/badge/-aitor.cubeles@utexas.edu-EA4335?logo=gmail&logoColor=white&style=flat)](#)
+[![Email address](https://img.shields.io/badge/-aitor.cubeles@utexas.edu-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:aitor.cubeles@utexas.edu)
 
 Experienced product-minded full stack engineer, with a special interest in mobile technologies 📱
 
