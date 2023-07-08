@@ -5,12 +5,11 @@
 [![Instagram account](https://img.shields.io/badge/-aitor__ct-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/aitor_ct/)
 [![Email address](https://img.shields.io/badge/-aitor.cubeles@utexas.edu-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:aitor.cubeles@utexas.edu)
 
-Experienced product-minded full stack engineer, with a special interest in mobile technologies 📱
+Experienced product-minded mobile engineer 📱
 
-Keen on the mobility, delivery, and music industries 🛴🚲🎹
+Interested in the mobility, delivery, and music industries 🛴 🚲 📦 🎹
 
-
-Currently at <a href="#"><img src="https://i.imgur.com/r86K53x.png" width="16" height="16" /></a> [Factorial](https://factorialhr.com). Previously at <a href="#"><img src="https://i.imgur.com/YFtoXJq.png" width="16" height="16" /></a> [Reby](https://reby.co).
+Currently at <a href="#"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/6463569/252021689-d1d31a44-1e70-4594-aa61-e647a62263c6.png" width="16" height="16" /></a> [Wolt](https://wolt.com). Previously at <a href="#"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/6463569/252021330-6aa5c3f7-8f85-4232-98f5-d998d5ea61a8.png" width="16" height="16" /></a> [Factorial](https://factorialhr.com) and <a href="#"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/6463569/252021366-4cdf6dbe-36fa-4242-8f3e-1c30645dc229.png" width="16" height="16" /></a> [Reby](https://reby.co).
 
 #### Technologies 🛠
 
